@@ -4,7 +4,7 @@
 <template>
     <div class="row mt-5">
         <div>
-            <input class="form-control text-center" @keyup="props.valor1" type="number" placeholder="Digite um numéro">
+            <input class="form-control text-center" @keyup="props.valor1" type="number" placeholder="Digite um número">
         </div>
         <div class="mt-2 mb-2">
             <input class="form-control text-center" @keyup="props.valor2" type="number" placeholder="Digite mais um número">
